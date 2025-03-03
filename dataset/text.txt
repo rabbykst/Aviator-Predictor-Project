@@ -1,7 +1,3 @@
-8073353517
-Pras@pT2003
-auto
-auto bet
 
 result - (L - H) - 6.3
 result - (H - L) - 1.38
